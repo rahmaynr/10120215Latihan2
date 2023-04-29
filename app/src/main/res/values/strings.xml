@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">10120215latihan2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="doesn_t_have_account_register">doesn\'t have account?Register</string>
+    <string name="doesn_t_have_account">doesn\'t have account?</string>
+    <string name="register">Register</string>
+    <string name="send">SEND</string>
+    <string name="connect_with_facebook">CONNECT WITH FACEBOOK</string>
+</resources>
