@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     android:background="@color/blue">
 
+    <!-- Tanggal Pengerjaan : 26 April 2023 -->
+    <!-- Deskripsi Pekerjaan : Latihan2 -->
+    <!-- Nim : 10120215 -->
+    <!-- Nama: Rahma Yuniar -->
+    <!-- Kelas: IF6 -->
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="136dp"
